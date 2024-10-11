@@ -1,23 +1,15 @@
-FINAL_YEAR_PROJECT-1
+# FINAL_YEAR_PROJECT-1: Object Detection and Distance Measurement
 
+This project uses **YOLOv5** for real-time object detection and distance estimation from video or webcam feeds. Bounding boxes, class labels, and distances are displayed on the screen, with optional audio output for detected objects.
 
-## Install
-1. Create Environment
+## Features
+- Real-time object detection using **YOLOv5**
+- Distance estimation for detected objects
+- Bounding box and class label visualization
+- Supports video files or webcam input
+
+## Installation
+1. Clone the repository:
    ```bash
-   conda create --name my_cv python=3.10
-   conda activate ocr_project
-```
-2. Clone this repository and navigate to the GOT folder
-```bash
-git clone https://github.com/NI3singh/FINAL_YEAR_PROJECT-1.git
-```
-3. Install Package
-```Shell
-pip install -r requirements.txt .
-```
-4. Run command
-```Shell
-cd environment folder
-python main.py
-
-```
+   git clone https://github.com/NI3singh/FINAL_YEAR_PROJECT-1.git
+'''
