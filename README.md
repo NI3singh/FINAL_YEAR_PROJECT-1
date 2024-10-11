@@ -13,3 +13,7 @@ This project uses **YOLOv5** for real-time object detection and distance estimat
    ```bash
    git clone https://github.com/NI3singh/FINAL_YEAR_PROJECT-1.git
 '''
+2. Install Dependencies:
+   '''bash
+   pip install -r requirements.txt
+'''
