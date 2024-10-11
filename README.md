@@ -17,3 +17,8 @@ This project uses **YOLOv5** for real-time object detection and distance estimat
    ```bash
    pip install -r requirements.txt
    ```
+3. go to project directory using cd
+4. now run the command:
+   ```bash
+   python main.py
+   ```
